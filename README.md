@@ -10,9 +10,9 @@
 * [auto-value-gson](https://github.com/rharter/auto-value-gson) - Creating [Gson](https://github.com/google/gson) `TypeAdapterFactory`.
 * [auto-value-moshi](https://github.com/rharter/auto-value-moshi) - Creating [Moshi](https://github.com/square/moshi) `JsonAdapterFactory`.
 * [AutoJackson](https://github.com/bgogetap/AutoJackson) - Helps with [Jackson](https://github.com/FasterXML/jackson) serialization/deserialization.
-
-## Object creation/compatibility
 * [auto-value-parcel](https://github.com/rharter/auto-value-parcel) - Implementing Android [`Parcelable`](https://developer.android.com/reference/android/os/Parcelable.html) interface automatically.
+
+## Database
 * [auto-value-cursor](https://github.com/gabrielittner/auto-value-cursor) - Creating objects from Android [`Cursor`](https://developer.android.com/reference/android/database/Cursor.html).
 * [auto-value-firebase](https://github.com/mattlogan/auto-value-firebase) - Creating [Firebase Realtime Database](https://firebase.google.com/docs/database/) objects.
 * [auto-value-result-set](https://github.com/workarounds/auto-value-result-set) - Creating objects from [ResultSet](https://docs.oracle.com/javase/7/docs/api/java/sql/ResultSet.html).
