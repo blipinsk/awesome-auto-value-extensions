@@ -15,7 +15,7 @@
 ## Database
 * [auto-value-cursor](https://github.com/gabrielittner/auto-value-cursor) - Creating objects from Android [`Cursor`](https://developer.android.com/reference/android/database/Cursor.html).
 * [auto-value-firebase](https://github.com/mattlogan/auto-value-firebase) - Creating [Firebase Realtime Database](https://firebase.google.com/docs/database/) objects.
-* [auto-value-result-set](https://github.com/workarounds/auto-value-result-set) - Creating objects from [ResultSet](https://docs.oracle.com/javase/7/docs/api/java/sql/ResultSet.html).
+* [auto-value-result-set](https://github.com/workarounds/auto-value-result-set) - Creating objects from [`ResultSet`](https://docs.oracle.com/javase/7/docs/api/java/sql/ResultSet.html).
 
 ## Default methods
 * [auto-value-redacted](https://github.com/square/auto-value-redacted) - Omitting selected fields from `toString()`.
@@ -23,8 +23,8 @@
 * [auto-value-ignore-hash-equals](https://github.com/REggar/auto-value-ignore-hash-equals) -  Omitting selected fields from `hashcode()` and `equals()`.
 
 ## Special methods
-* [auto-value-map](https://github.com/cynnyx/auto-value-map) - Generating a Map with fields as keys and associated values as fields' values.
-* [auto-value-querymap](https://github.com/oguzbabaoglu/auto-value-querymap) - Generating a Map that can be used with Retrofit's [`@QueryMap`](https://square.github.io/retrofit/2.x/retrofit/index.html?retrofit2/http/QueryMap.html).
+* [auto-value-map](https://github.com/cynnyx/auto-value-map) - Generating a `Map` with fields as keys and associated values as fields' values.
+* [auto-value-querymap](https://github.com/oguzbabaoglu/auto-value-querymap) - Generating a `Map` that can be used with Retrofit's [`@QueryMap`](https://square.github.io/retrofit/2.x/retrofit/index.html?retrofit2/http/QueryMap.html).
 
   > This extension works similar to the `auto-value-map`. The differences are:
   >
