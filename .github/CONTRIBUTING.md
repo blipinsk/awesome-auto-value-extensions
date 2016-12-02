@@ -3,7 +3,7 @@
 Ensure your pull request adheres to the following guidelines:
 
 <!--- **If you just created something, wait at least 30 days before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.-->
-- If you submit a project that is similar to an existing project in the list, argument how it's better.
+- If you submit an extension that is similar to an existing extension in the list, argument how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested extensions should be tested and documented.
 - Make an individual pull request for each suggestion.
@@ -16,6 +16,7 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title.
+- Pull requests containing extension suggestions should follow the [PR template](PULL_REQUEST_TEMPLATE.md).
 - **New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.**
 
 Thank you for your suggestions!
