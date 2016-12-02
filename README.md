@@ -2,7 +2,7 @@
 
 > :shipit: A curated list of awesome AutoValue extensions
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+*Please read the [contribution guidelines](.github/CONTRIBUTING.md) before contributing.*
 
 **Check out my [blog](https://medium.com/@blipinsk) :coffee: or say *hi* on [Twitter](https://twitter.com/blipinsk).**
 
