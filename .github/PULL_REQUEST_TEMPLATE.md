@@ -4,7 +4,6 @@
 
 **[Explain what this extension is about and why it should be included here.]**
 
-
 <!-- DO NOT MODIFY THE FOLLOWING PART, SUBMIT IT AS IS AND MARK PROPER TASKS AS COMPLETED -->
 
 # By submitting this pull request I confirm I've read and complied with the below requirements.
