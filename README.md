@@ -22,7 +22,7 @@
 * [auto-value-neuter-tostring](https://github.com/agatti/auto-value-neuter-tostring) - Simplifying `toString()` output to `[class_name]@[hex_hashcode]`.
 * [auto-value-ignore-hash-equals](https://github.com/REggar/auto-value-ignore-hash-equals) -  Omitting selected fields from `hashcode()` and `equals()`.
 
-## Special methods
+## Custom methods
 * [auto-value-map](https://github.com/cynnyx/auto-value-map) - Generating a `Map` with fields as keys and associated values as fields' values.
 * [auto-value-querymap](https://github.com/oguzbabaoglu/auto-value-querymap) - Generating a `Map` that can be used with Retrofit's [`@QueryMap`](https://square.github.io/retrofit/2.x/retrofit/index.html?retrofit2/http/QueryMap.html).
 
